@@ -22,6 +22,8 @@ I have built multiple applications and designed many applications. I am a Corpor
 
 ## Sample design
 <img src="https://github.com/geo-felix/geo-felix/blob/main/design.png"/>
+## My badges
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
 
  
 
