@@ -1,11 +1,20 @@
 ![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/its-kfelix/blob/main/Felix_.png)
-### Hi there 👋, I am Felix
-#### I am a Software Developer, Tech Writer, and Data Scientist in the making.
 
-
+# Hi there 👋, I am Felix
+## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have built multiple applications and designed many applications. I am a Corporate Finance Institute Business Intelligence and Data Analyst (BIDA) and Financial Modeling and Valuation Analyst (FMVA).
 
-Skills: REACT JS/ JS / HTML / CSS TABLEU/EXCEL/ POWER BI/ SQL/ C#/.NET/ PYTHON/KOTLIN
+
+
+## Skills and Experience
+* ⚛ React JS
+* 📱 Android development in Kotlin
+* 🕸 HTML/CSS/JS
+* 📈 Data analysis and presentation.
+* 👩‍💻 C#, .NET, Python
+* 🀄 UX/UI/CX design
+
+ 
 
 
 
