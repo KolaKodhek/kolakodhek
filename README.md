@@ -19,7 +19,7 @@ I have built multiple applications and designed many applications. I am a Corpor
 * 📈 Data analysis and presentation.
 * 👩‍💻 C#, .NET, Python
 * 🀄 UX/UI/CX design
-
+ <a href="https://app.daily.dev/GFelix"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/></a>
 ## Sample design
 <img src="https://github.com/geo-felix/geo-felix/blob/main/design.png"/>
 
@@ -37,22 +37,10 @@ I have built multiple applications and designed many applications. I am a Corpor
 
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
 <img src="![image](https://user-images.githubusercontent.com/65222662/201331925-74c90746-23d6-4597-a38a-76546ffe803e.png)"/>
 <!-- <img src="https://media.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" 
       width=100% align=&quot;left&quot;  width=&quot;48&quot; &gt;&lt;/a&gt;/> -->
- <a href="https://app.daily.dev/GFelix"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/></a>
+
 </br>
 I am ardent about how Data keeps organizations going.
 
