@@ -71,6 +71,13 @@ I have built multiple applications and designed many applications. I am a Corpor
   </tr>
  </tbody>
   </table>
+  
+  ## Let's Connect
+  <p align="left">
+<a href="https://twitter.com/https://twitter.com/_geofelix?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geofelix" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/g-f-elix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geofelix" height="30" width="40" /></a>
+   
+</p>
 
 
 
