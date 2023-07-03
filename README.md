@@ -1,4 +1,22 @@
-### Hi Techie, I'm `GFelix`, I find the value of `X`
+![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I am Felix
+#### I am a Software Developer, Tech Writer, and Data Scientist in the making.
+
+
+I have built multiple applications and designed many applications. I am a Corporate Finance Institute Business Intelligence and Data Analyst (BIDA) and Financial Modeling and Valuation Analyst (FMVA).
+
+Skills: REACT JS/ JS / HTML / CSS TABLEU/EXCEL/ POWER BI/ SQL/ C#/.NET/ PYTHON/KOTLIN
+
+
+
+
+
+
+
+
+
+
+
 <img src="![image](https://user-images.githubusercontent.com/65222662/201331925-74c90746-23d6-4597-a38a-76546ffe803e.png)"/>
 <!-- <img src="https://media.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" 
       width=100% align=&quot;left&quot;  width=&quot;48&quot; &gt;&lt;/a&gt;/> -->
