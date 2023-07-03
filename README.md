@@ -4,7 +4,9 @@
       width=100% align=&quot;left&quot;  width=&quot;48&quot; &gt;&lt;/a&gt;/> -->
  <a href="https://app.daily.dev/GFelix"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/></a>
 </br>
-I am ardent about how Data keeps organsations going.
+I am ardent about how Data keeps organizations going.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geo-felix&theme=dark&show_icons=true)
 
 
 
