@@ -1,4 +1,4 @@
-![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/its-kfelix/blob/main/Felix_.png)
 ### Hi there 👋, I am Felix
 #### I am a Software Developer, Tech Writer, and Data Scientist in the making.
 
