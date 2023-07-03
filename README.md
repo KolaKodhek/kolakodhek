@@ -24,8 +24,15 @@ I have built multiple applications and designed many applications. I am a Corpor
 <img src="https://github.com/geo-felix/geo-felix/blob/main/design.png"/>
 
 ## My badges
-<img src="https://github.com/geo-felix/geo-felix/blob/main/BIDA.png"/>
-![alt-text-1]( "BIDA") ![alt-text-2](image2.png "title-2")
+<p float="left">
+  <img src="https://github.com/geo-felix/geo-felix/blob/main/BIDA.png" height="250" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/geo-felix/geo-felix/blob/main/FMVA.png" height="250" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+
 
  
 
