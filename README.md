@@ -1,6 +1,6 @@
 ![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/its-kfelix/blob/main/Felix_.png)
 
-# Hi there 👋, I am Felix
+# Felix
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have built multiple applications and designed many applications. I am a Corporate Finance Institute Business Intelligence and Data Analyst (BIDA) and Financial Modeling and Valuation Analyst (FMVA).
 
@@ -19,6 +19,9 @@ I have built multiple applications and designed many applications. I am a Corpor
 * 📈 Data analysis and presentation.
 * 👩‍💻 C#, .NET, Python
 * 🀄 UX/UI/CX design
+
+## Sample design
+<img src="![UX/UI](https://user-images.githubusercontent.com/65222662/201331925-74c90746-23d6-4597-a38a-76546ffe803e.png)"/>
 
  
 
