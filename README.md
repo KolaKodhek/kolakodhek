@@ -4,7 +4,13 @@
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have built multiple applications and designed many applications. I am a Corporate Finance Institute Business Intelligence and Data Analyst (BIDA) and Financial Modeling and Valuation Analyst (FMVA).
 
-
+## Know me
+- 🔭 I’m currently working on sharpening my software development skills. 
+- 🌱 I’m currently learning everything that involves data science. 
+- 🤔 I’m looking for help with data science. 
+- 💬 Ask me about mentorship 
+- 📫 How to reach me: LinkedIn, Facebook 
+- 😄 Pronouns: He, Him, His.
 
 ## Skills and Experience
 * ⚛ React JS
