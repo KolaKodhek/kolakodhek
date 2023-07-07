@@ -4,6 +4,8 @@
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have built multiple applications and designed many applications. I am a Corporate Finance Institute Business Intelligence and Data Analyst (BIDA) and Financial Modeling and Valuation Analyst (FMVA).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geo-felix&label=Profile%20views&color=0e75b6&style=flat" alt="geo-felix" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geo-felix" alt="geo-felix" /></a> </p>
+
 
 ## Know me
 <table border="0" style="border-style: dashed">
