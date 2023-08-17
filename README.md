@@ -16,7 +16,7 @@ I have designed and built multiple applications. I am a Corporate Finance Instit
     
 - 🌱 I’m currently learning everything that involves data science.
   
-- 🤔 I’m looking for help with data science. I am a certified Azure Data Engineer Associate.
+- 🤔 I am a certified Azure Data Engineer Associate. I’m looking for help with data science. 
   
 - 💬 Ask me about mentorship
   
