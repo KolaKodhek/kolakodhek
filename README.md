@@ -44,10 +44,13 @@ I have designed and built multiple applications. I am a Microsoft Data Engineer 
 
 ## My badges
 <p float="left">
+  <img src="https://github.com/geo-felix/geo-felix/blob/main/badge.png" height="250" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/geo-felix/geo-felix/blob/main/BIDA.png" height="250" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/geo-felix/geo-felix/blob/main/FMVA.png" height="250" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/geo-felix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/g-f-elix/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/settings?tab=profile&section=bwanabusara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_geofelix?s=08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15431980/geofelix)  
