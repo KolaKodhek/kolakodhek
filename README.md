@@ -1,4 +1,4 @@
-![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/geo-felix/blob/main/Felix_.png)
+![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/geo-felix/blob/main/Felix.png)
 
 # Felix
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
