@@ -32,7 +32,7 @@ I have designed and built multiple applications with the user in mind,I am gen C
 </table>
 
 ## Skills and Experience
-* ⚛ React JS
+* ⚛ React JS/ Next JS
 * 📱 Android development in Kotlin
 * 🕸 HTML/CSS/JS
 * 📈 Data analysis and presentation.
