@@ -26,7 +26,7 @@ I have designed and built multiple applications with the user in mind,I am gen C
   
    </td>
    <td>
-    <a href="https://dly.to/8d1VvQNz7KX"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/</a>
+    <a href="https://dly.to/8d1VvQNz7KX"><img src="https://api.daily.dev/devcards/v2/a3MMczPesCnKXphuNaVF2.png?r=qzq" width="356" alt="kolakodhek's Dev Card" width="400" alt="Justmail Me's Dev Card"/</a>
    </td>
  </tr>
 </table>
