@@ -26,17 +26,17 @@ I have designed and built multiple applications with the user in mind,I am gen C
   
    </td>
    <td>
-    <a href="https://app.daily.dev/GFelix"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/</a>
+    <a href="https://dly.to/8d1VvQNz7KX"><img src="https://api.daily.dev/devcards/3de4716030fa428faa15ae06e9ca3c18.png?r=okl" width="400" alt="Justmail Me's Dev Card"/</a>
    </td>
  </tr>
 </table>
 
 ## Skills and Experience
 * ⚛ React JS/ Next JS
+* 👩‍💻 C#, .NET, Python
 * 📱 Android development in Kotlin
 * 🕸 HTML/CSS/JS
 * 📈 Data analysis and presentation.
-* 👩‍💻 C#, .NET, Python
 * 🀄 UX/UI/CX design
  
 ## Sample design
