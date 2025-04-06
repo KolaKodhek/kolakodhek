@@ -64,15 +64,15 @@ I have designed and built multiple applications with the user in mind,I am gen C
   <tr> 
    <td border-style="dashed"> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geo-felix&show_icons=true&locale=en&layout=compact" alt="geofelix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolakodhek&show_icons=true&locale=en&layout=compact" alt="kolakodhek" /></p>
    </td>
    
    <td>
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geo-felix&show_icons=true&locale=en" alt="geofelix" /></p>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolakodhek&show_icons=true&locale=en" alt="kolakodhek" /></p>
    </td>
 
    <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geo-felix&" alt="geofelix" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolakodhek&" alt="kolakodhek" /></p>
    </td>
   </tr>
  </tbody>
@@ -80,8 +80,8 @@ I have designed and built multiple applications with the user in mind,I am gen C
   
   ## Let's Connect
   <p align="left">
-<a href="https://twitter.com/https://twitter.com/_geofelix?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geofelix" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/g-f-elix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geofelix" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/_geofelix?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolakodhek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/g-f-elix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kolakodhek" height="30" width="40" /></a>
    
 </p>
 
