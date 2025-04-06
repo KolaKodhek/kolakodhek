@@ -3,8 +3,8 @@
 # Felix
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have designed and built multiple applications with the user in mind,I am gen CX, gen Customer Xperience. I am a Microsoft Data Engineer Associate, Corporate Finance Institute Business Intelligence and Data Analyst (BIDA), and Financial Modeling and Valuation Analyst (FMVA) certified.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geo-felix&label=Profile%20views&color=0e75b6&style=flat" alt="geo-felix" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geo-felix" alt="geo-felix" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolakodhek&label=Profile%20views&color=0e75b6&style=flat" alt="kolakodhek" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolakodhek" alt="gkolakodhek" /></a> </p>
 
 
 ## Know me
@@ -40,7 +40,7 @@ I have designed and built multiple applications with the user in mind,I am gen C
 * 🀄 UX/UI/CX design
  
 ## Sample design
-<img src="https://github.com/geo-felix/geo-felix/blob/main/design.png"/>
+<img src="https://github.com/kolakodhek/kolakodhek/blob/main/design.png"/>
 
 ## My badges
 <p float="left">
