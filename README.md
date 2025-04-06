@@ -81,7 +81,7 @@ I have designed and built multiple applications with the user in mind,I am gen C
   ## Let's Connect
   <p align="left">
 <a href="https://twitter.com/https://twitter.com/_geofelix?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolakodhek" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/g-f-elix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kolakodhek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/kkfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kolakodhek" height="30" width="40" /></a>
    
 </p>
 
