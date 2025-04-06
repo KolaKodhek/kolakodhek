@@ -44,11 +44,11 @@ I have designed and built multiple applications with the user in mind,I am gen C
 
 ## My badges
 <p float="left">
-  <img src="https://github.com/geo-felix/geo-felix/blob/main/badge.png" height="250" width="250" />
+  <img src="https://github.com/kolakodhek/kolakodhek/blob/main/badge.png" height="250" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/geo-felix/geo-felix/blob/main/BIDA.png" height="250" width="250" />
+  <img src="https://github.com/kolakodhek/kolakodhek/blob/main/BIDA.png" height="250" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/geo-felix/geo-felix/blob/main/FMVA.png" height="250" width="250" />
+  <img src="https://github.com/kolakodhek/kolakodhek/blob/main/FMVA.png" height="250" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
