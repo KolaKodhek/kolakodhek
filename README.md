@@ -1,6 +1,6 @@
 ![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/geo-felix/blob/main/Felix.png)
 
-# Felix
+# KolaKodhek
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
 I have designed and built multiple applications with the user in mind,I am gen CX, gen Customer Xperience. I am a Microsoft Data Engineer Associate, Corporate Finance Institute Business Intelligence and Data Analyst (BIDA), and Financial Modeling and Valuation Analyst (FMVA) certified.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolakodhek&label=Profile%20views&color=0e75b6&style=flat" alt="kolakodhek" /> </p>
