@@ -1,4 +1,4 @@
-![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/geo-felix/geo-felix/blob/main/KOLA KODHEK.png)
+![I am a Software Developer, Tech Writer, and a Data Scientist in making.](https://github.com/KolaKodhek/kolakodhek/blob/2ca0c685d80b6e3367136f9fbe21739f0e5f9732/KOLA%20KODHEK.png)
 
 # Kola Kodhek
 ## I am a Software Developer, Tech Writer, and Data Scientist in the making.
